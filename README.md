@@ -1,3 +1,2 @@
-# MediaRecorder
-by this .js file you can record your webrtc applications. you don't need to record from each video separately and then merge them. 
-just use this code to record your webpage.   
+# MediaRecorder WEBRtc
+now you can use this code to record chrome tab even if you are in WEBRtc meetings with fully video and audio of all participant in the same layout exactly like what you see in your browser tab in your storage of PC.
